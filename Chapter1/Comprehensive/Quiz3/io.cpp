@@ -1,3 +1,5 @@
+#include <iostream>
+
 int readNumber()
 {
   std::cout << "Please enter number: " << std::endl;
