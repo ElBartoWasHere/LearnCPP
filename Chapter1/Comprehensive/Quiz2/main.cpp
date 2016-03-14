@@ -1,5 +1,9 @@
 #include "io.cpp"
 
+int readNumber();
+
+void writeAnswer(int x);
+
 int main()
 {
 
