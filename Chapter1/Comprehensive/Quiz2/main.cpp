@@ -1,5 +1,4 @@
 //#include "io.cpp"  DO NOT INCLUDE
-#include <iostream>
 
 int readNumber();
 
