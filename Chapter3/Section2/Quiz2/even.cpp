@@ -20,4 +20,6 @@ int main()
     cout << "The number " << number << " is even." << endl;
   else
     cout << "The number " << number << " is odd." << endl;
+  
+  return 0;
 }
