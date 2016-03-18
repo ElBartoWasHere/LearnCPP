@@ -3,7 +3,7 @@
 
 float perYear(int age, float length)
 {
-  return (age / length);
+  return (static_cast<float>(age) / length);
 }
 
 int main()
